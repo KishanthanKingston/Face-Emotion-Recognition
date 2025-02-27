@@ -26,7 +26,7 @@ This project uses **two datasets**:
 ---
 
 ## Results  
-**Test Accuracy:** **65.45%**  
-**Best Performing Emotion:** **Happy** (**88% Precision, 83% Recall**)  
-**Most Confused Emotions:** **Fear & Sad** (often misclassified as **Neutral**)  
+✔️ **Test Accuracy:** **65.45%**  
+✔️ **Best Performing Emotion:** **Happy** (**88% Precision, 83% Recall**)  
+✔️ **Most Confused Emotions:** **Fear & Sad** (often misclassified as **Neutral**)  
 
